@@ -4,7 +4,7 @@ const token = "8818041019:AAGTqgSFqLQWT1UoKEWyaL5KzbZ1s1TZ5Ic";
 // আপনার দেওয়া চ্যানেল আইডি, চ্যানেল লিংক এবং মিনি অ্যাপের লিংক সরাসরি সেট করা হয়েছে
 const channelId = "-1002183552076"; 
 const channelLink = "https://t.me/winfanti";
-const webAppUrl = "https://t.me/Fmarketing_Demo_bot/myapp";
+const webAppUrl = "https://sahed8932.github.io/Marketing-Buy-Sell-Demo/";
 
 const { Telegraf } = require('telegraf');
 const express = require('express');
